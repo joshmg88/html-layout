@@ -1,0 +1,45 @@
+body{
+    margin: 0;
+    height: 100vh;
+    width: 100%;
+    background-color: beige;
+}
+
+.grey{
+    width: 100%;
+    height: 14vh;
+    background: grey;
+    padding: 15px 15px 10px 25px;
+}
+.blue_box{
+    height: 95px;
+    width: 95px;
+    background: blue;
+
+}
+.text{
+    height: 14vh;
+    text-align: center justify;
+    margin: 40px auto;
+    padding: 5px 15px 5px 15px;
+}
+.blue{
+    width: 100%;
+    height: 14vh;
+    background: blue;
+}
+.seafoam{
+    width: 100%;
+    height: 14vh;
+    background: #13d4bb
+}
+.green{
+    width: 100%;
+    height: 14vh;
+    background: greenyellow;
+}
+.yellow{
+    width: 100%;
+    height: 14vh;
+    background: yellow;
+}
